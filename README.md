@@ -1,2 +1,2 @@
-# SearchTheTune
-An iOS app the uses Itunes API to search for Music
+# Store Search
+An iOS app using networking to pull data from backend webservice
